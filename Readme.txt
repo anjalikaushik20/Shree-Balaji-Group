@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+## Shree Balaji Logistics
 
-Template Name: Amoeba
-Template URL: https://bootstrapmade.com/free-one-page-bootstrap-template-amoeba/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+#### A company that provides with full truck loading services all over India.
+
+###### Pay a visit to website [here](http://shreebalajigrp.com/)
